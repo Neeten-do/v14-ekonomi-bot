@@ -9,9 +9,9 @@ module.exports = {
         coinFlipMax: 250000, //Coinflip en fazla oynayabilecekleri para
     },
     meslek: {
-        doktorMaas: 50000, //Doktor Maaşı
-        yazilimciMaas: 25000, //Yazilimci maaşı
-        ogretmenMaas: 20000, //Öğretmen maaşı
+        CumhurbaşkanıMaas: 50000, //Cumhurbaşkanı Maaşı
+        BaşbakanMaas: 25000, //Başbakan maaşı
+        BaşbakanyardımcısıMaas: 20000, //Başbakan Yardımcısı maaşı                                                                                                                                                                        
     },
     daily: {
         min: 1000, //Günlük Ödül minimum gelecek para
